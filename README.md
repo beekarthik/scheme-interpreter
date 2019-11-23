@@ -1,4 +1,4 @@
-###scheme-interpreter
+# scheme-interpreter
 
 As a part of one of my introductory computer science classes at UC Berkeley, I wrote the core backend for a Scheme interpreter in Python. [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language), a dialect of [Lisp](https://en.wikipedia.org/wiki/Lisp_(programming_language), is a functional programming language. 
 To use this interpreter, simply navigate to the project folder in Terminal using ...
