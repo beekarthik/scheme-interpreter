@@ -14,6 +14,6 @@ To exit the interpreter simply type...
 ```scheme
 (exit)
 ```
-Here is a link to the [documentation for Scheme](https://cs61a.org/articles/scheme-spec.html).
+Here is a link to the [documentation for Scheme](http://www.r6rs.org/).
 
 Many thanks to the CS61A course staff for the starter code and support throughout this interesting project.
